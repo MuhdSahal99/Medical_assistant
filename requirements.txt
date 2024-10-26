@@ -55,7 +55,7 @@ referencing
 requests
 rich
 rpds-py
-six=
+six
 smmap
 sniffio
 SpeechRecognition
